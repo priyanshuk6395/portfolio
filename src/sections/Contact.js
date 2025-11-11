@@ -4,9 +4,9 @@ import { Linkedin, Github, Code } from 'lucide-react';
 
 // ... (socialLinks data is the same)
 const socialLinks = [
-  { href: "...", icon: Linkedin, label: "LinkedIn" },
-  { href: "...", icon: Github, label: "GitHub" },
-  { href: "...", icon: Code, label: "LeetCode" },
+  { href: "https://www.linkedin.com/in/priyanshu-kumar-51452b232/", icon: Linkedin, label: "LinkedIn" },
+  { href: "https://github.com/priyanshuk6395", icon: Github, label: "GitHub" },
+  { href: "https://leetcode.com/u/priyanshuk6395/", icon: Code, label: "LeetCode" },
 ];
 
 const Contact = () => {
